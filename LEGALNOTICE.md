@@ -43,20 +43,20 @@ and subject to their respective licenses.
 | commons-logging-1.3.1.jar           | Apache 2.0                |
 | commons-text-1.12.0.jar             | Apache 2.0                |
 | ezmorph-1.0.6.jar                   | Apache 2.0                |
-| flatlaf-3.5.jar                     | Apache 2.0                |
+| flatlaf-3.5.1.jar                   | Apache 2.0                |
 | harlib-1.1.3.jar                    | Apache 2.0                |
 | hsqldb-2.7.3.jar                    | BSD                       |
 | jackson-core-asl-1.9.13.jar         | Apache 2.0                |
 | javahelp-2.0.05.jar                 | GPL + classpath exception |
 | java-semver-0.10.2.jar              | MIT                       |
 | jericho-html-3.4.jar                | EPL / LGPL dual license   |
-| jfreechart-1.5.4.jar                | LGPL                      |
+| jfreechart-1.5.5.jar                | LGPL                      |
 | jgrapht-core-0.9.0.jar              | LGPL 2.1                  |
 | json-lib-2.4-jdk15.jar              | MIT + "Good, Not Evil"    |
 | log4j-1.2-api-2.23.1.jar            | Apache 2.0                |
 | log4j-api-2.23.1.jar                | Apache 2.0                |
 | log4j-core-2.23.1.jar               | Apache 2.0                |
 | log4j-jul-2.23.1.jar                | Apache 2.0                |
-| rsyntaxtextarea-3.5.0.jar           | BSD-3 clause              |
+| rsyntaxtextarea-3.5.1.jar           | BSD-3 clause              |
 | swingx-all-1.6.5-1.jar              | LGPL 2.1                  |
 | xom-1.3.9.jar                       | LGPL                      |
